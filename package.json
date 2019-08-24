@@ -1,0 +1,40 @@
+{
+    "name": "midiglue",
+    "displayName": "midiglue",
+    "description": "Language support for midiglue-node language",
+    "version": "0.1.4",
+    "publisher": "sigboost",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "repository": "https://github.com/sigboost-inc/midiglue-node-language",
+    "icon": "images/midiglue_logo_white.png",
+    "contributes": {
+        "languages": [
+            {
+                "id": "node",
+                "aliases": [
+                    "midiglue-node",
+                    "node"
+                ],
+                "extensions": [
+                    "node"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "node",
+                "scopeName": "source.node",
+                "path": "./syntaxes/node.tmLanguage.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^1.66.0"
+    }
+}
