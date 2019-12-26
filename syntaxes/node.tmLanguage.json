@@ -9,7 +9,7 @@
 	"scopeName": "source.node",
 	"patterns": [
 		{
-			"match": "<(I/O|Description|Setup|Code|Parameter|Requirements)>",
+			"match": "<(I/O|Description|Setup|Code|Parameter|Requirements|Comment)>",
 			"name": "markup.underline"
 		},
 		{
