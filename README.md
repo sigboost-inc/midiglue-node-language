@@ -8,7 +8,7 @@ midiglue : http://sigboost.audio/midiglue
 
 Refer to the midiglue manual for how to describe the .node file.
 
-midiglue_manual : https://sigboost-inc.github.io/midiglue-manual/customnode/
+midiglue_manual : http://sigboost.audio/midiglue/manual
 
 ## Features
 
