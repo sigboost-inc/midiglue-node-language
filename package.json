@@ -2,7 +2,7 @@
     "name": "midiglue",
     "displayName": "midiglue",
     "description": "Language support for midiglue-node language",
-    "version": "0.3.2",
+    "version": "0.3.3",
     "publisher": "sigboost",
     "engines": {
         "vscode": "^1.27.0"
