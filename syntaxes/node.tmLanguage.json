@@ -13,7 +13,7 @@
 			"name": "markup.underline"
 		},
 		{
-			"match": "(@in\\d|@jackin\\d|in\\d|out\\d|parameter|require|\\$\\{.*?\\}|@setup|@button_longpress|@button|@rotary_encoder|@timing)",
+			"match": "(@in\\d|@jackin\\d|in\\d|out\\d|parameter|require|\\$\\{.*?\\}|@setup|@button_longpress|@button|@knob|@timing)",
 			"name": "entity.name.tag.css"
 		},
 		{

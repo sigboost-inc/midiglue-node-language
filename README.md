@@ -20,4 +20,4 @@ midiglue_manual : http://sigboost.audio/midiglue/manual
 
 ## Note
 
-It's publish-test version.
+This extension only supports the latest midiglue Editor.
